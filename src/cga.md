@@ -2,11 +2,9 @@
 
 **ENTRE LES SOUSSIGNES **
 
-**{{company.name}}**, {{company.legal_structure}} au capital de
-{{company.capital}} €, enregistrée au RCS de {{company.rcs_city}} sous
-n°{{company.rcs_number}}, dont le siège social est sis {{company.address}},
-représentée aux fins des présentes par {{company.holder_name}} en qualité de
-{{company.holder_role}},
+**{{company.name}}**, micro entreprise, enregistrée sous le numéro SIRET {{company.siret}}, 
+dont le siège social est sis {{company.address}},
+représentée aux fins des présentes par {{company.holder_name}},
 
 Ci-après « **_{{company.name}}_**»,
 
@@ -370,4 +368,4 @@ s'exécuterait en tout ou partie à l'étranger.
 
 Tout litige qui s'élèverait à l’occasion du présent Contrat et qui ne pourrait
 être résolu à l'amiable sera soumis à la compétence des Tribunaux de
-{{company.rcs_city}}.
+{{company.city}}.

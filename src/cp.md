@@ -11,8 +11,8 @@ développements spécifiques.
 
 ## Prix - Paiement
 
-Le taux horaire de {{company.name}} s'élève à {{company.hourly_rate}}
-{{company.hourly_rate_legend}}. {{company.name}} propose ses services pour
+Le taux journalier de {{company.name}} s'élève à {{company.daily_rate}}
+{{company.daily_rate_legend}}. {{company.name}} propose ses services pour
 {{contract.duration}} {{contract.duration_unit}} de prestation.
 {{#if contract.prepayment_novat}}Le client s’engage donc à payer
 {{contract.prepayment_novat}} € HT {{#if contract.prepayment_vat}} soit

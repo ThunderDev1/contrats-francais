@@ -1,14 +1,15 @@
-# Conditions Générales de vente de {{company.name}} (applicables à compter du {{cgv.start_date}})
+# Conditions Générales de vente de {{company.name}}
+
+(applicables à compter du {{cgv.start_date}})
 
 
 ## Article 1. Champ d’application
 
 Les présentes conditions générales sont applicables entre {{company.name}},
-{{company.legal_structure}} au capital de {{company.capital}} €, enregistrée au
-RCS de {{company.rcs_city}} sous n°{{company.rcs_number}}, dont le siège social
-est sis {{company.address}}, représentée aux fins des présentes par
-{{company.holder_name}} en qualité de {{company.holder_role}}, Ci-après dénommée
-« {{company.name}} », et toute personne physique ou morale, particulier ou
+micro entreprise, enregistrée sous le numéro SIRET {{company.siret}}, 
+dont le siège social est sis {{company.address}}, représentée aux fins des présentes par
+{{company.holder_name}}, Ci-après dénommée « {{company.name}} »,
+et toute personne physique ou morale, particulier ou
 professionnel, de droit privé ou de droit public, contractant avec
 {{company.name}} pour la réalisation d’un Livrable, ci-après « le Client ».
 
@@ -57,7 +58,7 @@ du Livrable est livrée par {{company.name}} au Client.
 ## Article 3. Objet du contrat
 
 Par le présent contrat, {{company.name}} s’engage à concevoir et à réaliser
-pour le compte du Client un Livrable conformément à la méthode
+pour le compte du Client un Livrable conformément à la méthode 
 [Agile](http://agilemanifesto.org/iso/fr/manifesto.html).
 
 ## Article 4. Obligations des parties
@@ -298,19 +299,6 @@ vertu du présent contrat. {{company.name}} garantit le Client contre toute
 action, réclamation, revendication ou opposition de la part de toute personne
 invoquant un droit de propriété intellectuelle ou un acte de concurrence
 déloyale et/ou parasitaire, du fait de la Prestation.
-
-### 9.2. Droit de paternité
-
-À défaut de mention contraire dans le Devis, le nom de {{company.author}},
-auteur originaire du Logiciel, devra être associé au Livrable au cours de son
-exploitation. S’il s’agit d’un site web, le nom de {{company.author}}
-apparaîtra :
-
-sur une page appelée « Crédit », « Informations légales » ou « Mentions légales
-» accessible depuis la page d’accueil du site et comportant un lien hypertexte
-vers [{{company.url_nice}}]({{company.url}});
-
-dans le header du code HTML des pages web du site sous la balise « Creator ».
 
 ## Article 10. Évolution - Maintenance
 
